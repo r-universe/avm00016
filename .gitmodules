@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "predtoolsTS"]
 	path = predtoolsTS
 	url = https://github.com/avm00016/predtoolsts
-	shallow = true
-	registered = true
